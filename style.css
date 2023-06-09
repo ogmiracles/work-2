@@ -1,0 +1,19 @@
+table {
+    border: 1px solid black;
+    width: 500px;
+}
+.p1 {
+    background-color: green;
+}
+.p2 {
+    background-color: greenyellow;
+}
+.p3, .p4 , .p5 {
+    background-color: greenyellow;
+}
+.p15, .p16, .p17, .p18, .p19, .p20 {
+    background-color: red;
+}
+.p20 {
+    background-color: brown;
+}
